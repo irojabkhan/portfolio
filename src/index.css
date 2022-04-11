@@ -46,16 +46,19 @@ body {
   margin-bottom: 50px;
   line-height: 1.5;
 }
-.content a {
+.content button {
   color: #fff;
   font-size: 20px;
   text-decoration: none;
-  padding: 3px;
-  /* padding-bottom: 0; */
+  padding: 8px;
+  cursor: pointer;
   position: relative;
   transition: all .3s ease;
+  background: transparent;
+  outline: none;
+  box-shadow: none;
 }
-.content a::before {
+.content button::before {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -65,7 +68,7 @@ body {
   content: '';
   transition: all .3s ease;
 }
-.content a:hover::before {
+.content button:hover::before {
   height: 100%;
 }
 .footer {
