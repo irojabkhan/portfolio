@@ -23,6 +23,7 @@ function App() {
                     <a href="https://github.com/irojabkhan" target="_blank" rel="noreferrer">Github</a>
                     <a href="https://twitter.com/irojabkhan" target="_blank" rel="noreferrer">Twitter</a>
                     <a href="https://www.linkedin.com/in/rojab-khan-482779136/" target="_blank" rel="noreferrer">Linkedin</a>
+                    <a href="mailto:irojabkhan@gmail.com" target="_blank" rel="noreferrer">Mail me</a>
                 </div>
             </div>
         </div>
